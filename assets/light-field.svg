@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520" role="img" aria-labelledby="title description">
+<title id="title">Ideal pinhole image formation</title>
+<desc id="description">Three scene points send straight rays through a single ideal pinhole to an inverted image on a sensor. Object and image distances are equal here, giving magnification minus one. Teal and amber identify scene points, not wavelengths. Geometric optics only; not a radiometric or diffraction simulation. The aperture opening is exaggerated for visibility.</desc>
+<defs>
+<radialGradient id="glow"><stop stop-color="#71d9ce" stop-opacity=".12"/><stop offset="1" stop-color="#71d9ce" stop-opacity="0"/></radialGradient>
+<linearGradient id="chamber" x1="0" x2="1"><stop stop-color="#93d5d3" stop-opacity=".035"/><stop offset="1" stop-color="#93d5d3" stop-opacity=".09"/></linearGradient>
+<marker id="arrow-teal" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 7 4 0 8" fill="none" stroke="#9de4dc" stroke-width="1.2"/></marker>
+<marker id="arrow-amber" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 7 4 0 8" fill="none" stroke="#e6bd8e" stroke-width="1.2"/></marker>
+</defs>
+<circle cx="325" cy="252" r="225" fill="url(#glow)"/>
+<g fill="none" stroke="#9dc9d3" stroke-opacity=".09"><circle cx="310" cy="250" r="190" stroke-dasharray="2 8"/><path d="M60 90h490M60 430h490M60 90v340M550 90v340"/><path d="M80 250h470" stroke-opacity=".36" stroke-dasharray="5 7"/></g>
+<!-- Side view: every ray remains collinear across the aperture. -->
+<path d="M310 125H540V375H310Z" fill="url(#chamber)"/>
+<path d="M310 125H540V375H310M310 125V243M310 257V375" fill="none" stroke="#99c7ce" stroke-opacity=".55" stroke-width="1.2"/>
+<path d="M310 125V243M310 257V375" stroke="#b5d8dc" stroke-opacity=".45" stroke-width="4"/>
+<rect x="506" y="145" width="8" height="210" fill="#95d3d0" fill-opacity=".1" stroke="#95d3d0" stroke-opacity=".7"/>
+<g stroke="#95d3d0" stroke-opacity=".18" stroke-width=".6"><path d="M506 155h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8m-8 10h8"/></g>
+<path d="M110 330V170" fill="none" stroke="#9de4dc" stroke-width="2.4" marker-end="url(#arrow-teal)"/>
+<path d="M510 170V330" fill="none" stroke="#9de4dc" stroke-width="2.4" marker-end="url(#arrow-teal)"/>
+<g id="projection-rays" fill="none" stroke-width="1.3"><polyline id="upper-ray" points="110,170 310,250 510,330" stroke="#9de4dc"/><polyline id="central-ray" points="110,250 310,250 510,250" stroke="#b9d3dc" stroke-opacity=".6"/><polyline id="lower-ray" points="110,330 310,250 510,170" stroke="#e6bd8e"/></g>
+<path d="m199 205.6 16 6.4m183 73.2 16 6.4" fill="none" stroke="#9de4dc" marker-end="url(#arrow-teal)"/>
+<path d="m199 294.4 16-6.4m183-73.2 16-6.4" fill="none" stroke="#e6bd8e" marker-end="url(#arrow-amber)"/>
+<g fill="#9de4dc"><circle cx="110" cy="170" r="4"/><circle cx="510" cy="330" r="4"/></g><g fill="#e6bd8e"><circle cx="110" cy="330" r="4"/><circle cx="510" cy="170" r="4"/></g><g fill="#b9d3dc"><circle cx="110" cy="250" r="2.5"/><circle cx="510" cy="250" r="2.5"/></g><circle cx="310" cy="250" r="3.5" fill="#e8f8f2"/>
+<g fill="none" stroke="#9dc9d3" stroke-opacity=".4" stroke-width=".7"><path d="M110 350v43M310 380v13M510 370v23M110 387H510M110 383v8M310 383v8M510 383v8"/><path d="M310 236V106H270M510 138V106H467"/></g>
+<g font-family="monospace" fill="#a7c5d0"><g font-size="16" letter-spacing="1.2"><text x="72" y="139">SCENE</text><text x="225" y="91">PINHOLE</text><text x="456" y="91">SENSOR</text></g><g font-size="13"><text x="80" y="172" fill="#9de4dc">P1</text><text x="80" y="334" fill="#e6bd8e">P2</text><text x="522" y="334" fill="#9de4dc">P1′</text><text x="522" y="173" fill="#e6bd8e">P2′</text></g><g font-size="11" text-anchor="middle"><text x="210" y="410">OBJECT DISTANCE u</text><text x="410" y="410">IMAGE DISTANCE v</text></g><text x="310" y="454" font-size="19" fill="#b7dcd8" text-anchor="middle">m = −v/u = −1</text><text x="310" y="478" font-size="10" letter-spacing=".4" text-anchor="middle" fill="#8cabb9">IDEAL PINHOLE · u = v · GEOMETRIC OPTICS</text></g>
+</svg>
