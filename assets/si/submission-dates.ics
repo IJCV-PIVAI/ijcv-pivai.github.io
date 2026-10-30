@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Physics-Inspired Visual AI//IJCV SI//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ijcv-physics-inspired-ai-open-2027@special-issue
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:IJCV Physics-Inspired Visual AI - Submissions open
+DESCRIPTION:Check the official collection for timing and schedule updates.
+URL:https://link.springer.com/collections/fbibcijcjg
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcv-physics-inspired-ai-deadline-2027@special-issue
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:IJCV Physics-Inspired Visual AI - Submission deadline
+DESCRIPTION:Check the official collection for timing and schedule updates.
+URL:https://link.springer.com/collections/fbibcijcjg
+END:VEVENT
+END:VCALENDAR

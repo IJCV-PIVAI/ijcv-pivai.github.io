@@ -1,0 +1,99 @@
+{
+  "title": "Physics-Inspired Visual AI",
+  "subtitle": "Grounding Foundation, Generative, and World Models in Physical Principles",
+  "journal": "International Journal of Computer Vision",
+  "opens": "2027-01-15",
+  "deadline": "2027-05-31",
+  "article_type": "SI: Physics-Inspired Visual AI",
+  "collection": "https://link.springer.com/collections/fbibcijcjg",
+  "guidelines": "https://link.springer.com/journal/11263/submission-guidelines",
+  "portal": "https://www.editorialmanager.com/visi/",
+  "overview": "Visual AI is entering an era of powerful foundation, generative, and world models. Yet visual plausibility alone does not guarantee physical validity. This special issue explores how the structure of the physical world can ground what models perceive, generate, and predict.",
+  "scope": "We invite research that connects geometry, illumination, reflectance, materials, optics, sensors, and dynamics with large-scale visual learning. In the complementary direction, learned representations and generative priors can advance inverse problems, reconstruction, rendering, restoration, and computational imaging.",
+  "topics": [
+    {
+      "title": "Physics-grounded foundation models",
+      "description": "Physical priors for visual and vision-language foundation models; geometric and photometric reasoning; robust representations grounded in image formation.",
+      "tags": "Representation · Reasoning · Robustness"
+    },
+    {
+      "title": "Physics-consistent generative models",
+      "description": "Physically valid image, video, and 3D generation; controllable illumination and materials; generative priors for inverse rendering and reconstruction.",
+      "tags": "Generation · Inverse problems · Control"
+    },
+    {
+      "title": "Physics-aware world models & embodied AI",
+      "description": "Learning and predicting physical dynamics; consistent scene representations; perception and simulation that support interaction with the physical world.",
+      "tags": "Dynamics · Simulation · Embodiment"
+    },
+    {
+      "title": "Physics-constrained data & sensors",
+      "description": "Sensor-aware learning and acquisition; computational imaging; physically grounded synthetic data; multimodal sensing and measurement consistency.",
+      "tags": "Sensing · Data · Computational imaging"
+    },
+    {
+      "title": "Evaluation, benchmarks & applications",
+      "description": "Measuring physical validity beyond perceptual quality; diagnostic benchmarks, reproducible evaluation, and applications that test robustness and generalization.",
+      "tags": "Physical validity · Benchmarks · Applications"
+    }
+  ],
+  "editors": [
+    {
+      "name": "Qi Bi",
+      "slug": "qi-bi",
+      "affiliation": "Utrecht University",
+      "url": "https://www.uu.nl/medewerkers/QBi",
+      "image": "assets/si/people/qi-bi.jpg"
+    },
+    {
+      "name": "Chu Zhou",
+      "slug": "chu-zhou",
+      "affiliation": "National Institute of Informatics",
+      "url": "https://fourson.github.io/",
+      "image": "assets/si/people/chu-zhou.jpg"
+    },
+    {
+      "name": "Tao Zhang",
+      "slug": "tao-zhang",
+      "affiliation": "Hangzhou Dianzi University",
+      "url": "https://faculty.hdu.edu.cn/txgxxy/zt2/main.htm",
+      "image": "assets/si/people/tao-zhang.jpg"
+    },
+    {
+      "name": "Yunfei Liu",
+      "slug": "yunfei-liu",
+      "affiliation": "International Digital Economy Academy (IDEA)",
+      "url": "https://liuyunfei.net/",
+      "image": "assets/si/people/yunfei-liu.png"
+    },
+    {
+      "name": "Shaodi You",
+      "slug": "shaodi-you",
+      "affiliation": "University of Amsterdam",
+      "url": "https://youshaodi.github.io/",
+      "role": "Lead Guest Editor",
+      "image": "assets/si/people/shaodi-you.jpg"
+    },
+    {
+      "name": "Ying Fu",
+      "slug": "ying-fu",
+      "affiliation": "Beijing Institute of Technology",
+      "url": "https://ying-fu.github.io/",
+      "image": "assets/si/people/ying-fu.jpg"
+    },
+    {
+      "name": "Yu Li",
+      "slug": "yu-li",
+      "affiliation": "International Digital Economy Academy (IDEA) / University of Illinois Urbana-Champaign",
+      "url": "https://yu-li.github.io/",
+      "image": "assets/si/people/yu-li.jpg"
+    },
+    {
+      "name": "José M. Alvarez",
+      "slug": "jose-alvarez",
+      "affiliation": "NVIDIA",
+      "url": "https://research.nvidia.com/labs/lpr/author/jose-m.-alvarez/",
+      "image": "assets/si/people/jose-alvarez.jpg"
+    }
+  ]
+}

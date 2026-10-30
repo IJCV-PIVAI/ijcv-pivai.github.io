@@ -1,0 +1,66 @@
+{
+  "checked": "2026-10-30",
+  "portraits": [
+    {
+      "name": "Qi Bi",
+      "local_file": "assets/si/people/qi-bi.jpg",
+      "source_page": "https://ivi.fnwi.uva.nl/cv/people.html",
+      "source_image": "https://ivi.fnwi.uva.nl/cv/images/Qi_Bi_new.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "Chu Zhou",
+      "local_file": "assets/si/people/chu-zhou.jpg",
+      "source_page": "https://github.com/fourson/fourson.github.io/blob/main/_pages/about.md",
+      "source_image": "https://raw.githubusercontent.com/fourson/fourson.github.io/main/assets/img/prof_pic.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "Tao Zhang",
+      "local_file": "assets/si/people/tao-zhang.jpg",
+      "source_page": "https://faculty.hdu.edu.cn/txgxxy/zt2/main.htm",
+      "source_image": "https://faculty.hdu.edu.cn/_upload/article/images/24/77/c90228ae44aab2675820cf9ec5f7/77bdbcc8-ded6-4b22-95d4-18b49a0ffafe_s.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "Yunfei Liu",
+      "local_file": "assets/si/people/yunfei-liu.png",
+      "source_page": "https://liuyunfei.net/",
+      "source_image": "https://liuyunfei.net/images/avatar-2.png",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "Shaodi You",
+      "local_file": "assets/si/people/shaodi-you.jpg",
+      "source_page": "https://youshaodi.github.io/",
+      "source_image": "https://youshaodi.github.io/HomeImage/Profile2.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "Ying Fu",
+      "local_file": "assets/si/people/ying-fu.jpg",
+      "source_page": "https://ying-fu.github.io/",
+      "source_image": "https://ying-fu.github.io/assets/img/prof_pic.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "Yu Li",
+      "local_file": "assets/si/people/yu-li.jpg",
+      "source_page": "https://yu-li.github.io/",
+      "source_image": "https://yu-li.github.io/img/profile.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    },
+    {
+      "name": "José M. Alvarez",
+      "local_file": "assets/si/people/jose-alvarez.jpg",
+      "source_page": "https://developer.nvidia.com/blog/author/josemalvarez/",
+      "source_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2023/11/cropped-Jose-Alvarez-NVIDIA.jpg",
+      "verification": "Named profile or explicitly labelled portrait; no facial identification used."
+    }
+  ],
+  "artwork": {
+    "file": "v1-mint/assets/images/optical-sculpture-v1.webp",
+    "source": "Existing project artwork, preserved. Decorative optics-inspired glass, not experimental evidence."
+  },
+  "notes": "Chu Zhou homepage returned 404; author-owned repository config and about page identify the profile image. Warm/Blue use decorative CSS light and lens motifs, not scientific plots."
+}
