@@ -22,3 +22,7 @@ Open http://127.0.0.1:8767/. For GitHub Pages select `main` and `/ (root)` in re
 ## Maintenance
 
 Edit `index.html` for page content and `assets/style.css` for this design. Shared styles and interactions live in `assets/si/`. Content/source records are in `data/`; these are reference records and do not automatically regenerate HTML. Portrait provenance is recorded in `data/image-sources.json`. Motion is optional and respects reduced-motion preferences. Internal proposal/correspondence files are excluded.
+
+Project homepage: https://ijcv-pivai.github.io/
+
+Repository: https://github.com/IJCV-PIVAI/ijcv-pivai.github.io
