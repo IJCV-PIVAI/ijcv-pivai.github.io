@@ -1,6 +1,6 @@
 # Physics-Inspired Visual AI — IJCV Special Issue
 
-Active design: **v1-mint**. Branch: **main**.
+Active design: **v2-warm**. Branch: **codex/style-warm**.
 
 ## Three independent styles
 
