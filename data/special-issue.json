@@ -3,38 +3,36 @@
   "subtitle": "Grounding Foundation, Generative, and World Models in Physical Principles",
   "journal": "International Journal of Computer Vision",
   "opens": "2027-01-15",
-  "deadline": "2027-05-31",
-  "article_type": "SI: Physics-Inspired Visual AI",
+  "deadline": "2027-07-31",
   "collection": "https://link.springer.com/collections/fbibcijcjg",
   "guidelines": "https://link.springer.com/journal/11263/submission-guidelines",
-  "portal": "https://www.editorialmanager.com/visi/",
-  "overview": "Visual AI is entering an era of powerful foundation, generative, and world models. Yet visual plausibility alone does not guarantee physical validity. This special issue explores how the structure of the physical world can ground what models perceive, generate, and predict.",
-  "scope": "We invite research that connects geometry, illumination, reflectance, materials, optics, sensors, and dynamics with large-scale visual learning. In the complementary direction, learned representations and generative priors can advance inverse problems, reconstruction, rendering, restoration, and computational imaging.",
+  "overview": "Visual foundation models, vision-language models, diffusion models, and world models have expanded what computer vision can do. Without explicit models of image formation and scene physics, their outputs can look convincing while violating physical constraints, failing across sensors, or hiding uncertainty in inverse problems.",
+  "scope": "The special issue welcomes research that uses physical priors to improve visual perception and generation, or applies pretrained and generative models to reconstruction, rendering, restoration, and computational imaging. The scope spans theory, methods, empirical studies, and benchmarks that advance computer vision.",
   "topics": [
     {
       "title": "Physics-grounded foundation models",
-      "description": "Physical priors for visual and vision-language foundation models; geometric and photometric reasoning; robust representations grounded in image formation.",
-      "tags": "Representation · Reasoning · Robustness"
+      "description": "Use priors from image formation, geometry, illumination, materials, and sensors to train, adapt, and evaluate visual and vision-language foundation models and improve their reasoning.",
+      "tags": "Pretraining · Adaptation · Reasoning"
     },
     {
       "title": "Physics-consistent generative models",
-      "description": "Physically valid image, video, and 3D generation; controllable illumination and materials; generative priors for inverse rendering and reconstruction.",
-      "tags": "Generation · Inverse problems · Control"
+      "description": "Apply physical constraints to diffusion models and AI-generated content, including controllable generation, inverse rendering, relighting, and restoration.",
+      "tags": "Diffusion · Relighting · Inverse rendering"
     },
     {
       "title": "Physics-aware world models & embodied AI",
-      "description": "Learning and predicting physical dynamics; consistent scene representations; perception and simulation that support interaction with the physical world.",
-      "tags": "Dynamics · Simulation · Embodiment"
+      "description": "Build interactive environments that respond to actions and test perception under controlled physical conditions.",
+      "tags": "Action conditioning · Simulation · Embodiment"
     },
     {
       "title": "Physics-constrained data & sensors",
-      "description": "Sensor-aware learning and acquisition; computational imaging; physically grounded synthetic data; multimodal sensing and measurement consistency.",
-      "tags": "Sensing · Data · Computational imaging"
+      "description": "Acquire, simulate, augment, and enhance data while preserving physical properties. Relevant modalities include spectral, event, light-field, time-of-flight, and LiDAR sensing.",
+      "tags": "Acquisition · Simulation · Multimodal sensing"
     },
     {
       "title": "Evaluation, benchmarks & applications",
-      "description": "Measuring physical validity beyond perceptual quality; diagnostic benchmarks, reproducible evaluation, and applications that test robustness and generalization.",
-      "tags": "Physical validity · Benchmarks · Applications"
+      "description": "Measure physical consistency and uncertainty, diagnose hallucinations, and assess performance in adverse weather, material recognition, and real deployments.",
+      "tags": "Physical consistency · Uncertainty · Deployment"
     }
   ],
   "editors": [
@@ -42,58 +40,53 @@
       "name": "Qi Bi",
       "slug": "qi-bi",
       "affiliation": "Utrecht University",
-      "url": "https://www.uu.nl/medewerkers/QBi",
-      "image": "assets/si/people/qi-bi.jpg"
+      "image": "assets/si/people/qi-bi.webp"
     },
     {
       "name": "Chu Zhou",
       "slug": "chu-zhou",
       "affiliation": "National Institute of Informatics",
-      "url": "https://fourson.github.io/",
-      "image": "assets/si/people/chu-zhou.jpg"
+      "image": "assets/si/people/chu-zhou.webp"
     },
     {
       "name": "Tao Zhang",
       "slug": "tao-zhang",
       "affiliation": "Hangzhou Dianzi University",
-      "url": "https://faculty.hdu.edu.cn/txgxxy/zt2/main.htm",
-      "image": "assets/si/people/tao-zhang.jpg"
+      "image": "assets/si/people/tao-zhang.webp"
     },
     {
       "name": "Yunfei Liu",
       "slug": "yunfei-liu",
       "affiliation": "International Digital Economy Academy (IDEA)",
-      "url": "https://liuyunfei.net/",
-      "image": "assets/si/people/yunfei-liu.png"
+      "image": "assets/si/people/yunfei-liu.webp"
     },
     {
       "name": "Shaodi You",
       "slug": "shaodi-you",
       "affiliation": "University of Amsterdam",
-      "url": "https://youshaodi.github.io/",
       "role": "Lead Guest Editor",
-      "image": "assets/si/people/shaodi-you.jpg"
+      "image": "assets/si/people/shaodi-you.webp"
     },
     {
       "name": "Ying Fu",
       "slug": "ying-fu",
       "affiliation": "Beijing Institute of Technology",
-      "url": "https://ying-fu.github.io/",
-      "image": "assets/si/people/ying-fu.jpg"
+      "image": "assets/si/people/ying-fu.webp"
     },
     {
       "name": "Yu Li",
       "slug": "yu-li",
       "affiliation": "International Digital Economy Academy (IDEA) / University of Illinois Urbana-Champaign",
-      "url": "https://yu-li.github.io/",
-      "image": "assets/si/people/yu-li.jpg"
+      "image": "assets/si/people/yu-li.webp"
     },
     {
       "name": "José M. Alvarez",
       "slug": "jose-alvarez",
       "affiliation": "NVIDIA",
-      "url": "https://research.nvidia.com/labs/lpr/author/jose-m.-alvarez/",
-      "image": "assets/si/people/jose-alvarez.jpg"
+      "image": "assets/si/people/jose-alvarez.webp"
     }
-  ]
+  ],
+  "submission_procedure": "T.B.A.",
+  "submission_requirements": "T.B.A.",
+  "contact": "T.B.A."
 }

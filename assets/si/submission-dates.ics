@@ -15,8 +15,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ijcv-physics-inspired-ai-deadline-2027@special-issue
 DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
 SUMMARY:IJCV Physics-Inspired Visual AI - Submission deadline
 DESCRIPTION:Check the official collection for timing and schedule updates.
 URL:https://link.springer.com/collections/fbibcijcjg

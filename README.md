@@ -8,7 +8,7 @@ Active design: **v1-mint**. Branch: **main**.
 - `codex/style-warm`: v2 Warm.
 - `codex/style-blue`: v3 Blue.
 
-Each branch is a complete static site rooted at `index.html`, with its own local CSS, JavaScript, fonts and images. Relative URLs support both a domain root and a project subpath. No sibling folder is required. Footer style links open source branches, not live alternate deployments.
+Each branch is a complete static site rooted at `index.html`, with its own local CSS, JavaScript, fonts and images. Relative URLs support both a domain root and a project subpath. No sibling folder is required. The branch list above is for source and design review.
 
 ## Preview and validate
 
